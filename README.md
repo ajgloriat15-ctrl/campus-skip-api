@@ -1,10 +1,10 @@
-# [Your Game Title] API
+# Campus Skip API
 
-Backend API for **[Your Game Title]**, a tournament game for the SorSU Bulan Campus library.
+Backend API for **Campus Skip**, a tournament game for the SorSU Bulan Campus library.
 CS 313 Software Engineering 1, A.Y. 2026-2027.
 
-- Developer: [Your full name] ([your GitHub username]), BSCS [3-1 or 3-2]
-- Group and game concept: [Group name]
+- Developer: Allen Jay G. Gloriat(ajgloriat15-ctrl), BSCS 3-2
+- Group and game concept: Team 6 (A Solo/Multiplayer quiz game were player have to choose the correct anwer to open doors)
 
 This is my own build of my group's game concept. Every commit in this repository was made by me, with Git, on my own computer or in my own Codespace.
 
